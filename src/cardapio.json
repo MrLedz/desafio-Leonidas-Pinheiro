@@ -1,0 +1,44 @@
+[
+  {
+    "codigo": "cafe",
+    "valor": 3,
+    "principal": true
+  },
+  {
+    "codigo": "chantilly",
+    "valor": 1.50,
+    "principal": false,
+    "extraDe": "cafe"
+  },
+  {
+    "codigo": "suco",
+    "valor": 6.2,
+    "principal": true
+  },
+  {
+    "codigo": "sanduiche",
+    "valor": 6.5,
+    "principal": true
+  },
+  {
+    "codigo": "queijo",
+    "valor": 2,
+    "principal": false,
+    "extraDe": "sanduiche"
+  },
+  {
+    "codigo": "salgado",
+    "valor": 7.25,
+    "principal": true
+  },
+  {
+    "codigo": "combo1",
+    "valor": 9.5,
+    "principal": false
+  },
+  {
+    "codigo": "combo2",
+    "valor": 7.5,
+    "principal": false
+  }
+]
